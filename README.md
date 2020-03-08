@@ -1,4 +1,4 @@
-### It's my Kaggle test
+# It's my Kaggle test
 
 ## Titanic-Data-Science-Solutions
 I use Logistic Regression,SVC,Random Forest,GaussianNB,K-Means ,DecisionTreeClassifier to solve the problem
